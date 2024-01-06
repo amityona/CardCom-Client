@@ -1,3 +1,5 @@
+Server Repo : https://github.com/amityona/CardCom-Server
+
 To Run The Project :
 
 Npm i 
